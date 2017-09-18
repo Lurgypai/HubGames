@@ -1,0 +1,4 @@
+name: HubGames
+main: net.arcanemc.hubgames.HubMinigames
+version: 0.0.1
+depend: [Core]
