@@ -68,7 +68,7 @@
 		    <artifactId>Core</artifactId>
 		    <version>1.0</version>
 		    <scope>system</scope>
-		    <systemPath>${project.basedir}/src/main/resources/Core.jar</systemPath>
+		    <systemPath>C:/Users/dapop/Desktop/Lurgypai/Java/resources/Core.jar</systemPath>
 		</dependency>
 	</dependencies>
 </project>
